@@ -1,0 +1,12 @@
+h1{
+    text-shadow: 4px 5px 4px;
+}
+body img{
+    height: 10em;
+    border-radius: 50%;
+    width: 150px;
+
+}
+#im{
+    float:left;
+}
